@@ -1,0 +1,11 @@
+C:\Users\saffa\source\repos\OtomasyonProgramOrnek\OtomasyonProgramOrnek\bin\Debug\OtomasyonProgramOrnek.exe.config
+C:\Users\saffa\source\repos\OtomasyonProgramOrnek\OtomasyonProgramOrnek\bin\Debug\OtomasyonProgramOrnek.exe
+C:\Users\saffa\source\repos\OtomasyonProgramOrnek\OtomasyonProgramOrnek\bin\Debug\OtomasyonProgramOrnek.pdb
+C:\Users\saffa\source\repos\OtomasyonProgramOrnek\OtomasyonProgramOrnek\obj\Debug\OtomasyonProgramOrnek.csproj.AssemblyReference.cache
+C:\Users\saffa\source\repos\OtomasyonProgramOrnek\OtomasyonProgramOrnek\obj\Debug\OtomasyonProgramOrnek.Form1.resources
+C:\Users\saffa\source\repos\OtomasyonProgramOrnek\OtomasyonProgramOrnek\obj\Debug\OtomasyonProgramOrnek.Properties.Resources.resources
+C:\Users\saffa\source\repos\OtomasyonProgramOrnek\OtomasyonProgramOrnek\obj\Debug\OtomasyonProgramOrnek.csproj.GenerateResource.cache
+C:\Users\saffa\source\repos\OtomasyonProgramOrnek\OtomasyonProgramOrnek\obj\Debug\OtomasyonProgramOrnek.csproj.CoreCompileInputs.cache
+C:\Users\saffa\source\repos\OtomasyonProgramOrnek\OtomasyonProgramOrnek\obj\Debug\OtomasyonProgramOrnek.exe
+C:\Users\saffa\source\repos\OtomasyonProgramOrnek\OtomasyonProgramOrnek\obj\Debug\OtomasyonProgramOrnek.pdb
+C:\Users\saffa\source\repos\OtomasyonProgramOrnek\OtomasyonProgramOrnek\obj\Debug\OtomasyonProgramOrnek.Form2.resources
